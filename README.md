@@ -1,3 +1,3 @@
-##### i am a readme file.
+##### hello there.
 
-this repository is not like other repositories. it's quirky and relatable.
+i am a human.
